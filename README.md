@@ -10,8 +10,8 @@ The following figure illustrates a sexist video that includes a gender stereotyp
 <img width="255" alt="stereotype" src="https://github.com/user-attachments/assets/289dbe15-ea76-470e-a331-5309eb1c6b6c" />
 
 
-# Human annotation
+## Human annotation
 
 
 
-# Model evaluation 
+## Model evaluation 
