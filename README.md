@@ -12,7 +12,7 @@ The following figure illustrates a sexist video that includes a gender stereotyp
 
 
 ## Human annotation
-MuSeD was annotated by a team of six annotators from diverse gender and age backgrounds to mitigate demographic bias. In our annotation process, the annotators classified content as sexist or non-sexist across different modalities. The process consisted of three stages: first, annotators labeled the transcript and OCR texts; second, they annotated the audio; and finally, they annotated the entire video, which included all modalities.
+MuSeD was annotated by a team of six annotators from diverse gender and age backgrounds to mitigate demographic bias. In our annotation process, the annotators classified content as sexist or non-sexist across different modalities. The process consisted of three stages: first, annotators labeled the transcript of the audio and OCR texts; second, they annotated the audio; and finally, they annotated the entire video, which included all modalities.
 
 ## Dataset statistics 
 MuSeD includes 400 videos, ≈ 11 hours, extracted from two different platforms: TikTok, a moderated platform, and BitChute, a low-moderation platform, which enables us to find diverse material. The following figure illustrates the dataset statistics:
