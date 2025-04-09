@@ -10,6 +10,7 @@ The following figure illustrates a sexist video that includes a gender stereotyp
 
 <img width="255" alt="stereotype" src="https://github.com/user-attachments/assets/289dbe15-ea76-470e-a331-5309eb1c6b6c" />
 
+The dataset will be publicly available for research purposes.
 
 ## Human annotation
 MuSeD was annotated by a team of six annotators from diverse gender and age backgrounds to mitigate demographic bias. In our annotation process, the annotators classified content as sexist or non-sexist across different modalities. The process consisted of three stages: first, annotators labeled the transcript of the audio and OCR texts; second, they annotated the audio; and finally, they annotated the entire video, which included all modalities.
@@ -26,4 +27,3 @@ We evaluate a range of large language models (LLMs) on the task of sexism detect
 <img width="419" alt="Screenshot 2025-04-09 at 16 38 48" src="https://github.com/user-attachments/assets/8a1b322f-4857-4a83-879e-0bb8158670da" />
 
 
-The dataset annotations will be publicly available for research purposes.
