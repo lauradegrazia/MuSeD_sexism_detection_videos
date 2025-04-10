@@ -5,7 +5,7 @@ MuSeD is a Multimodal Spanish dataset for Sexism Detection on social media video
 Content is considered sexist in four main cases:
 * Stereotype: It attributes a set of properties that supposedly differentiate men and women, based on stereotypical beliefs;
 * Inequality: It asserts that gender inequalities no longer exist and that the feminist movement is marginalizing the position of men in society;
-* Discrimination: It discriminates against the LGBTQ+ community:
+* Discrimination: It discriminates against the LGBTQ+ community;
 * Objectification: It portrays women as physical objects, often hypersexualizing their bodies. 
 
 The following figure illustrates a sexist video that includes a gender stereotype:
