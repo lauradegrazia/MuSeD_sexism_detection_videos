@@ -1,5 +1,7 @@
 # MuSeD: A Multimodal Spanish Dataset for Sexism Detection
 
+This repository is associated with the research paper titled [**MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos**](https://arxiv.org/abs/2504.11169).
+
 MuSeD is a Multimodal Spanish dataset for Sexism Detection on social media videos. 
 
 Content is considered sexist in four main cases:
