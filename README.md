@@ -1,6 +1,6 @@
 # MuSeD: A Multimodal Spanish Dataset for Sexism Detection
 
-This repository is associated with the research paper titled [**MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos**](https://arxiv.org/abs/2504.11169)
+This repository is associated with the research paper titled [**MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos**](https://arxiv.org/abs/2504.11169). 
 
 *MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media Videos* Laura De Grazia, Pol Pastells, Mauro Vázquez Chas, Desmond Elliott, Danae Sánchez Villegas, Mireia Farrús, Mariona Taulé. 
 
