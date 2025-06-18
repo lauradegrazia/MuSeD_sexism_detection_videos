@@ -20,8 +20,8 @@ from text_utils import (basic_prompt,
 
 
 # models
-# LLAMA_PATH = "/scratch/project/dd-24-66/models/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659"
-MODELS_PATH = "/scratch/project/dd-24-66/models/"
+
+MODELS_PATH = "/path/to/models/"
 models = {"llama_70B":"models--meta-llama--Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693",
           "llama_8B": "models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659",
           }
